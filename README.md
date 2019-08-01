@@ -3,16 +3,16 @@
 ### To Do
 - [x] Implement a maze generating algorithm
 
-# Algorithm
+### Algorithm
 
 - Series of steps to accomplish some task
 
-# Stack-based Algorithm
+### Stack-based Algorithm
 
 - Stacks are LIFO Last in First out
 - Queues are FIFO First in First out
 
-# Recursive Backtracking
+### Recursive Backtracking
 
 1. Choose a starting node
 2. Push the starting node onto the stack
@@ -33,13 +33,13 @@ If there are no neighbours to visit
 
 9. Pop the node off the stack
 
-# Classes
+### Classes
 
 - [x] Stack 
 - [x] Node
 - [x] Maze
 
-# Further Reading
+### Further Reading
 
 * [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 * [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
