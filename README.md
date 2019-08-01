@@ -1,5 +1,4 @@
-# Lunch && Learn
-# Mazes Without Monsters
+# Lunch && Learn: Mazes Without Monsters 
 
 ### To Do
 - [x] Implement a maze generating algorithm
