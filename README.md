@@ -35,9 +35,9 @@ If there are no neighbours to visit
 
 # Classes
 
-[x] Stack 
-[x] Node
-[x] Maze
+- [x] Stack 
+- [x] Node
+- [x] Maze
 
 # Further Reading
 
